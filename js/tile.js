@@ -24,7 +24,6 @@ class Tile{
     }
 
     getConnectedTiles(){
-    	    	        console.log("getting nconnected");
         let connectedTiles = [this];
         let frontier = [this];
         while(frontier.length){

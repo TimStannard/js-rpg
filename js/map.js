@@ -24,7 +24,6 @@ function generateTiles(){
             }
         }
     }
-
     return passableTiles;
 
 }
