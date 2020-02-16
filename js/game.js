@@ -30,5 +30,9 @@ function draw(){
             getTile(i,j).draw();
         }
     }
+<<<<<<< HEAD
         player.draw();
+=======
+    drawSprite(0, x, y);
+>>>>>>> master
 }

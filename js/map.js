@@ -24,6 +24,10 @@ function generateTiles(){
             }
         }
     }
+<<<<<<< HEAD
+=======
+
+>>>>>>> master
     return passableTiles;
 
 }
